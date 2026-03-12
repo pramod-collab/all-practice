@@ -1,0 +1,20 @@
+/*Add background color and text alignment to body.*/
+
+body {
+ background-color: rgb(17, 1, 32);
+
+}
+
+/*Add font family and font size to paragraph using type selector*/
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+}
+
+/*sans-serif is generic font*/
+
+h1 {
+    color: rgb(135, 130, 228);
+    text-align: center;
+}
